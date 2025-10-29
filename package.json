@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Projeto inicial rodando um teste com node e utilizando modulos",
   "main": "modulo.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
